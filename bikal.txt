@@ -1,0 +1,5 @@
+create table bikal
+( 
+name varchar(10),
+Address varchar(20)
+);
